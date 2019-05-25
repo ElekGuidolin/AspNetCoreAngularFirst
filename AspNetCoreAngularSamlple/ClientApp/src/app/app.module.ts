@@ -32,4 +32,3 @@ import { FetchDataComponent } from './fetch-data/fetch-data.component';
   bootstrap: [AppComponent]
 })
 export class AppModule { }
-//Ass
